@@ -21,7 +21,7 @@ app.post('/balanced', function (req, res) {
     });
 
     res.send({
-        test: 'Hello World!!!!!!!!!!!!!',
+        test: 'Hello World!!!!!!!!!!!',
         balanceResult: 'balanceResult'
     })
 })
